@@ -1,0 +1,58 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.btn {
+  background-color: #8b0000; /* Green */
+  border: none;
+  color: #ffff00;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border: 2px solid red;
+  border-radius: 5px;
+  font-size: 16px;
+}
+h1 {
+  margin: 1em 0 0.5em 0;
+  color: #343434;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 40px;
+  font-family: "Orienta", sans-serif;
+}
+
+input {
+  width: 260px;
+  height: 40px;
+  text-align: center;
+  font-size: 24px;
+}
+
+.btn1 {
+  background-color: #14903f; /* Green */
+  border: none;
+  color: #ffff00;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border: 2px solid red;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.purchased {
+  color: green;
+  font-size: 20px;
+  text-decoration: line-through;
+  border:none
+}
+.not-purchased{
+ color: red;
+  font-size: 20px;
+ 
+  border:none
+}
